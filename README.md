@@ -32,3 +32,7 @@ Machine learning:
 subset of Ai that allows the system to automatically learn and improve from experience withput being explicity
 
 Lifecycle of Machine Learning: Understand the business problem
+
+
+Sentiment analysis:
+It is a technique which is a technique commonly used to understand the positive , negative or neutral sentiment about a particular topic
